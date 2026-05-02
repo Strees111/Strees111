@@ -50,8 +50,8 @@ I'm especially interested in:
 ---
 
 ## 📊 GitHub Stats
-[![Strees111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strees111&show_icons=true&theme=radical)](https://github.com/Strees111)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strees111&langs_count=8&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Strees111&show_icons=true&theme=radical" />
 
 ---
 
