@@ -51,7 +51,7 @@ I'm especially interested in:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Strees111&show_icons=true&theme=radical" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Strees111&theme=radical)
 
 ---
 
