@@ -44,16 +44,15 @@ I'm especially interested in:
 ## 📬 Contact Me
 
 - Discord: @b0lt_
-- Telegram: @Crazx4
-- Gmail: hankprawn45@gmail.com
-- Vkontakte: https://vk.com/id196584614
+- Telegram:[@Crazx4](https://t.me/Crazx4)
+- Gmail: hankprawn45@gmail.com 
+- Vkontakte: [Денис](https://vk.com/id196584614)
 ---
 
 ## 📊 GitHub Stats
+![Strees111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strees111&show_icons=true&theme=radical&border_color=30363d&bg_color=0d1117)    
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Strees111&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strees111&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strees111&langs_count=8&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
