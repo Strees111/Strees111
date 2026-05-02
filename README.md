@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Strees111
 
-💻 **Backend / Systems Developer**
+**Backend / Systems Developer**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a developer with a strong focus on **Go** as my primary language.  
 I also have solid experience working with **C++** and **Java**.
@@ -22,7 +22,7 @@ I'm especially interested in:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Main
 - **Go** (primary language)
@@ -41,7 +41,7 @@ I'm especially interested in:
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 - Discord: @b0lt_
 - Telegram:[@Crazx4](https://t.me/Crazx4)
@@ -49,13 +49,13 @@ I'm especially interested in:
 - Vkontakte: [Денис](https://vk.com/id196584614)
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Strees111&show_icons=true&theme=radical" />
 
 ---
 
-## ⚡ A Bit More
+## A Bit More
 
 > I value simple solutions, clear abstractions,  
 > and code that remains readable after six months.
