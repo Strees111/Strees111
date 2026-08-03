@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Strees111
+# Hi there! I'm Strees111
 
 **Backend / Systems Developer**
 
@@ -52,10 +52,3 @@ I'm especially interested in:
 ## GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Strees111&show_icons=true&theme=radical" />
-
----
-
-## A Bit More
-
-> I value simple solutions, clear abstractions,  
-> and code that remains readable after six months.
